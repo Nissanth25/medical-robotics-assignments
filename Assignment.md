@@ -22,4 +22,4 @@
 
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
-> [LinkedIn post URL]
+> (https://www.linkedin.com/posts/nissanth-s-p-041b94289_medicalrobotics-aiinmedicine-healthcareinnovation-activity-7436057453399789568-vQ7d?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYeyDEBKysQ11pVEYxNR-fmd-XtNhyaOOU)
